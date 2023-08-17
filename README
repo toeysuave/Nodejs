@@ -1,0 +1,15 @@
+## PROJECT NODE JS START
+
+## HOW TO INSTALL
+1. Clone project
+2. Run command `yarn`
+
+## HOW TO USE
+
+1. run project `yarn dev`
+2. run api check status http://localhost:3000/checkstatus
+
+## Note
+
+โปรเจ็คนี้จัดทำขึ้นมาเพื่อเก็บไว้เป็นข้อมูลในการสร้าง โปรเจ็ค API ด้วย NODE.JS และเพิ่มเติมความรู้ต่างๆใน Node.js
+
